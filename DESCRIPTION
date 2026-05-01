@@ -1,0 +1,28 @@
+Package: GLUE
+Title: Graph-Linked Unified Embedding for Single-Cell Multi-Omics Integration
+Version: 0.2.0
+Authors@R: person("Gao", "Lab", email = "author@example.com", role = c("aut", "cre"))
+Description: Graph-linked unified embedding (GLUE) for unpaired single-cell multi-omics data integration.
+License: MIT
+Imports:
+    Seurat,
+    reticulate,
+    igraph,
+    ggplot2,
+    dplyr,
+    purrr,
+    RColorBrewer,
+    scales,
+    patchwork,
+    yaml
+Depends:
+    R (>= 4.0.0),
+    SingleCellExperiment
+Suggests:
+    testthat,
+    knitr,
+    BiocManager
+LinkingTo:
+    Rcpp,
+    RcppArmadillo
+Encoding: UTF-8
