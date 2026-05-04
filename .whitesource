@@ -5,7 +5,8 @@
     "projectToken": "",
     "baseBranches": [],
     "versioning": {
-      "r": "4.0.2"
+      "r": "4.0.2",
+      "python": "10.0"
     }
   },
   "scanSettingsSAST": {
