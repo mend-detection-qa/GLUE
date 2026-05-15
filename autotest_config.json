@@ -35,7 +35,7 @@
       },
       "_comment_expected_dependencies_number": "Optional. Expected number of dependencies with comparison operator. Operators: gt (>), gte (>=), lt (<), lte (<=), eq (==). If not provided, this check will not be performed.",
       "direct_dependencies_names_list": {
-        "eq": [
+        "contains": [
           "networkd3_0.4.tar.gz",
           "argparse_2.0.3.tar.gz",
           "rliger_1.0.0.tar.gz",
