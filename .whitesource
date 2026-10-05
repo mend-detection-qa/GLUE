@@ -6,7 +6,7 @@
     "baseBranches": [],
     "versioning": {
       "r": "4.0.2",
-      "python": "3.10.0"
+      "python": "3.9"
     }
   },
   "scanSettingsSAST": {
